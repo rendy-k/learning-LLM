@@ -1,0 +1,134 @@
+What Does a Data Scientist
+in Finance Actually Do?
+BY WILL HILLIER, UPDATED ON AUGUST 31, 202311 mins read
+As the backbone of the world’s economy, the finance sector has long understood the
+importance of big data for making profitable decisions and taking calculated risks. That’s where
+financial data scientists come in. One of the trailblazers in data science, the industry has used big data to transform everything from how
+the stock market works, to detecting fraud and even improving the customer experience. The array of
+potential applications offered by big data has resulted in huge demand for talented scientists in the
+finance sector. But what exactly is a financial data scientist, and what does one do? In this post, we’ll answer all this
+and more. Start your data journey with this free data analytics short course. Use the clickable menu:
+1. What is a financial data scientist?
+2. What does a data scientist in the finance sector do?
+3. How is a data scientist in finance different from data scientists in other industries?
+4. What experience do you need to become a data scientist in the finance industry?
+5. How much can data scientists in the finance industry earn?
+6. Wrap-up and further reading
+Ready to demystify this exciting career path? Let’s dive in. 1. What is a financial data
+scientist?
+Financial data scientists are industry experts with specialist, in-depth domain knowledge. As one of the world’s most lucrative industries, the global finance sector was one of the first to identify
+the profit potential of big data. This isn’t too surprising: banking has always involved trying to predict market changes to make the best
+investments and gain a competitive advantage. Meanwhile, data analytics is all about trying to make
+predictions, too. Since banks and other financial institutions have access to our information—from
+market metrics to transaction data and detailed customer profiles—the two go nicely hand-in-hand. However, the sheer amount of big data collected by the finance industry poses a challenge. One of the
+biggest problems is how best to utilize all this unstructured data (i.e. data that are completely
+disorganized and lack a coherent model). Adding to the confusion is that banking is a wildly complex
+field in itself. It’s an industry rife with mergers, acquisitions, complex product offerings, and changing
+regulations. Tying this constantly shifting landscape together with big data requires much greater skills
+than one can expect from your standard data analyst.
+With talented experts at the helm, financial service providers can streamline complex processes and
+break down the silo culture that’s prevalent across the industry. They don’t just carry out collecting, mining, and making sense of data, like data analysts do. This makes it a widely varied field with plenty of potential for career development. Plus, it pays incredibly
+well, as we’ll see later on. But first… 2. What does a data scientist in
+finance do?
+A financial data scientist’s job can involve everything from fraud detection to creating personalized
+customer service solutions. It might mean building complex data warehouses or creating algorithms that
+automate important financial interactions. It might even involve all of these things. Financial data scientist responsibilities
+The day-to-day responsibilities of a financial data scientist can be extremely broad. You’ll find many
+variations depending on the area they work in. These areas include:  Risk management  Fraud detection
+ Customer experience
+ Consumer analytics  Pricing automation
+ Algorithmic trading
+The granular detail of these roles differs a lot. Broadly speaking, a data scientist’s job is to develop
+processes for collecting and storing data, mining those data for insights, and then developing and
+delivering strategic solutions to key problems (like those just listed). A great way to visualize what financial data scientists do on an average day is to see the tasks and
+responsibilities expected of them. While it’s tricky to generalize, here’s a taste of what you can expect, based on real financial data science job descriptions. General responsibilities of a data scientist in the
+finance sector:
+ Collecting strategic data and designing, engineering, and documenting complex data
+infrastructures.  Using data modeling techniques to bring cohesion to unstructured and semi-structured data.  Using natural language processing (NLP) and computer vision to analyze unstructured and
+semi-structured data.  Working closely with various teams (from DevOps to executive management) to identify
+problems and devise data-driven solutions to these problems.  Conducting quantitative analysis to obtain insights, developing these into workable solutions, and then following these through to successful delivery (while measuring outcomes).
+ Training machine learning models using existing data, and prototyping systems to test out new
+approaches.  Devising and coding novel algorithms from scratch, to help manage the data analytics and
+machine learning processes.  Communicating clearly with various parts of the business and mentoring more junior members
+of staff. Examples of role-specific responsibilities
+ Devising new approaches to risk analysis or finding ways of automating the risk management
+process (risk management).  Designing and building high-performance identity verification applications that can withstand
+aggressive fraud attacks (fraud detection).  Analyzing product usage and customer behavior to drive recommendations for improved
+customer experience across business units (customer data).  Strong knowledge of credit card processes, accounting, and SOX controls [a type of error
+protection procedure] (consumer analytics).  Tracking trade algorithms and re-designing them accordingly to work with alternative trading
+platforms (algorithmic trading). For the sake of this post, we’ve deliberately avoided getting into the complex technical requirements, which are likely to be more confusing at this stage than helpful (although you can get an idea in section
+four). And while this list is far from exhaustive, it gives you a taste of how diverse a financial data
+scientist’s role can be. You can learn more about data science in the finance industry in this round-up of the top nine use
+cases. Curious about a career in Data Analytics?
+3. How is a data scientist in
+finance different from data
+scientists in other industries?
+So what makes a financial data scientist stand out from those in other industries? While the tasks for
+any data scientist will vary by job, they tend to require very similar proficiencies, regardless of their
+industry focus.
+We can say that there are three broad competencies required of all data scientists. These are business
+domain knowledge, technological skills, and proficiency in math and statistics. The main difference
+between industries is the degree to which these skills matter. And what better way to figure this out than
+by using data?
+According to the findings of a data science survey by The Analytics Week and Business Over
+Broadway, most data scientists (regardless of industry) have greater proficiency in business and
+statistics than they do in technology (the exception being the education/science sector). We can also distinguish between data scientists in the finance sector and those in other industries by
+looking at where their focus lies. Namely, are they primarily business managers, developers, creatives, or researchers? According to the same study, the finance sector is dominated by researchers (65%). This is the third-highest proportion of research data scientists in any industry, as you can see in the
+graph. Meanwhile, 49% of data scientists in finance identified themselves as business data professionals. While these figures are similar to those in other industries, there are some differences. For instance,
+those working in information technology and communication tend to focus more on creative aspects (e.g. hacking) and development (e.g. data engineering). And although we keep saying how in-demand they are, data scientists are a relatively rare breed in
+finance (when compared to other industries). According to the survey, the vast majority of data scientists
+work in retail, professional services, and communications. Only 11% work in the finance industry. While
+this number has probably gone up since the survey was conducted, it’s still good news if you’re hoping
+to land your first job in the sector. It tells us that good data analysts and scientists are in high demand.
+If you’re interested in keeping track of this and other industry trends, we highly recommend
+following Bob E. Hayes (the data scientist and statistician who carried out this analysis) on the social
+media platform X (formerly Twitter). 4. What experience do you need
+to become a data scientist in the
+finance industry?
+Next up, what skills and experience do you need to become a data scientist in the finance industry?
+Luckily, there is no single route into the field. It’s quite feasible to start as a data analyst, climb the
+career ladder and build your skills as you go. But whether you’re working for a bank, fintech startup, or
+insurance provider, you’ll likely need to aim for the following qualifications and experience:  A degree or relevant qualification (ideally a Master’s or Ph.D.) in math, statistics, computer
+science, or a related subject.  In-depth expertise and understanding of the finance sector and its regulatory requirements (at
+a minimum, for the area you’ll be working in, e.g. risk assessment or insurance claims).  Knowledge of a wide variety of general data science tools, from machine learning algorithms,
+to deep learning, data analytics, and natural language processing.  Both the theory and practical skills required to create unique statistical models.
+ Proficiency using big data technologies, e.g. clustered computing architectures like Apache
+Spark, Hadoop, etc.  Capability in multiple programming languages, primarily Python and R, and possibly others, depending on your focus (e.g. JavaScript, C++).  An understanding of, and ability to work with, unstructured or semi-structured datasets.  Knowledge of key systems used in the finance industry, e.g. SAP, Oracle, SWIFT, etc.  Knowledge of the many key data vendors in the finance industry, e.g. Acuris, Bloomberg, Moody’s Analytics, Thomson Reuters, etc. Learning or developing these skills can take several years. As such, your next question might be: is this
+really worth the time investment? The next section might help you decide. 5. How much can data scientists
+in the finance industry earn?
+The salary you might expect to earn as a data scientist will vary depending on your skill level, area of
+expertise (e.g. risk assessment vs. customer experience), and the organization you’re working for. Even the job title itself will have an impact. While this makes it hard to pin down an exact salary, we can
+get an estimate of how much you might be able to earn in the finance sector by looking at median
+salaries for various data roles. According to the salary comparison website, Payscale, these are the average salaries for financial data
+analytics jobs in the US. These were correct as of the beginning of 2022, but you can click on each
+salary for an up-to-date estimate (as well as a more detailed breakdown):  Business Analyst, Finance/Banking: $66,726
+ Senior Analyst, Finance: $78,387
+ Senior Financial Analyst: $82,556
+ Senior Credit Analyst: $69,797
+ Senior Compliance Analyst: $74,877
+ Budget Analyst: $62,395
+ Quantitative Analyst: $85,069
+ Risk Management Analyst: $70,971
+Based on these figures, we can determine that the average salary for data analytics roles is around
+$74K. And that’s just data analytics. While there’s not always a clearly defined boundary between data
+analytics and data science, they do denote two distinct fields, and we can surmise that data science
+roles are likely to pay even more. To illustrate, according to Payscale, data scientists in the US earn about $97K (on average). Meanwhile, senior data scientists can earn an average of $127K. Once you take into account career
+progression, profit sharing, and bonuses (which tend to be generous in finance) you have the potential
+to earn a great deal more. Finance jobs are high stakes. You’ll have to invest significant amounts of time honing and developing
+your skills. You’ll need to become an excellent business leader. But as you can see, the hard work will
+pay off. As a long-term career goal, this has excellent potential to be a fulfilling and rewarding path.
+6. Summary and further reading
+In this post, we explored the ins-and-outs of data science within the finance industry. We learned that:  Financial data scientists work with the vast amounts of data available to financial institutions. They use this to drive high-stakes business decisions.  Financial data scientists work in a broad array of areas, from risk management and fraud
+detection to automated pricing and algorithmic trading.  Data scientists in finance require a higher level of skills than your average data analyst: you’ll
+probably require a master’s or Ph.D. to succeed. However, a data analytics qualification is an
+excellent place to start.  Around 11% of all data scientists have chosen to specialize in the finance sector.  You’ll be well remunerated if you choose to pursue a career here, potentially earning upwards
+of $127K per year. Although data science is a tricky field, the journey can be a worthwhile one, resulting in a very generous
+salary. If you’re just starting out, begin by getting to grips with the basics. Try a free, five-day data
+analytics short course, and check out the following introductory topics:  A round-up of the best data science bootcamps on the market right now
+ 15 Data science podcasts for data enthusiasts
+ How to make the transition from data analyst to data scientist
+What You Should Do Now
+ Get a hands-on introduction to data analytics and carry out your first analysis with our free, self-paced Data Analytics Short Course.  Take part in one of our FREE live online data analytics events with industry experts, and read about Azadeh’s journey from school teacher to data analyst.  Become a qualified data analyst in just 4-8 months—complete with a job guarantee.  This month, we’re offering the first 100 students reduced tuition—worth up to $1,425 off—
+on all of our career-change programs Book your application call and secure your spot
+today!
+Source: https://careerfoundry.com/en/blog/data-analytics/data-scientist-in-finance/
